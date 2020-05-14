@@ -30,46 +30,46 @@
 
   - 트래픽 문제
     - 프로그래머스에서 누군가의 풀이를 보고 참고한 코드.. 정말 신박했다.
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/17676)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2018_blind/7)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/17676)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2018_blind/7)
 
 - 2019 blind
 
   - 먹방 시뮬레이션
     - 거의 아이디어 잡고 풀뻔 했는데 시간을 초과했던게 아쉬웠던,
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/42891)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_blind/4)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/42891)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_blind/4)
 
 - 2020 blind
 
   - 외벽 점검
 
     - 모든 가능한 해결책을 다 계산해서 해답에 대입해서 맞는지 점검해봄
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/60062)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2020_blind/6)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/60062)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2020_blind/6)
 
   - 블록 이동하기
 
     - 조금 까다로운 조건을 추가해서 고려해야하는 경로찾기 문제
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/60063)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2020_blind/7)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/60063)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2020_blind/7)
 
 - 2019 winter intership
 
   - 불량사용자
 
     - 모든 가능한 답안을 해답에 대입해서 맞는지 점검해봄
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64064)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/3)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64064)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/3)
 
   - 호텔 방배정
 
     - 자료구조를 잘 쓰면 해결되는 문제
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64063)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/4)
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64063)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/4)
 
   - 징검다리 건너기
 
-    - 내가 해결책을 찾을 수 있을까??
-      [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64062)
-      [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/5)
+    - 풀이가 이해가 안됨 ㅠㅠ
+      - [프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/64062)
+      - [풀이 코드](https://github.com/devcheolheon/algoPractice/tree/master/kakao/2019_winter_internship/5)
